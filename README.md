@@ -1,3 +1,5 @@
+# DEPRECATED a favor to [vite](https://vitejs.dev/)
+---
 # This is a simple seed for TypeScript projects
 
 ### Features
